@@ -1,5 +1,5 @@
 ##
-Condor Gaming Test App submission for the BE Assessmnet 
+Employee Management App - work in progress
 
 App made using Laravel Sail and MYSQL.
 
